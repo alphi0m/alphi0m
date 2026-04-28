@@ -11,8 +11,6 @@ I believe the most impactful technologists are those who can also lead — and t
 - 🚀 **Current Focus:** Specializing in Software Engineering, IT Management, and Business Strategy — with a growing interest in AI and Machine Learning.
 - 💻 **Technical Stack:** Experienced in the Java Ecosystem, SQL, Full-Stack Web Development, and NoSQL databases (MongoDB).
 
----
-
 ![Alfio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphi0m&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphi0m&layout=compact&theme=default)
 
@@ -30,6 +28,7 @@ I believe the most impactful technologists are those who can also lead — and t
 
 **Web Development**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
