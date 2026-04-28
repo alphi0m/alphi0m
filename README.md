@@ -75,3 +75,7 @@ I believe the most impactful technologists are those who can also lead — and t
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alphi0m&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
+
+<div align="center">
+  <i>💡 "Non ti serve controllo, ti serve visione"</i>
+</div>
