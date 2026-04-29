@@ -3,7 +3,7 @@
 ### 🎓 About Me
 I'm a **Computer Science Graduate** from the University of Salerno, currently pursuing a **Master's degree in Software Engineering & IT Management** — with a clear ambition to grow into leadership and management roles at the intersection of technology and business.
 
-My academic background blends a solid foundation in software development with expertise in security protocols and IT governance. I graduated with a thesis on the application of **Machine Learning** in molecular simulation and anomaly detection.
+My academic background blends a solid foundation in software development with expertise AI, Machine Learning and IT governance. I graduated with a thesis on the application of **Machine Learning** in molecular simulation and anomaly detection.
 
 I believe the most impactful technologists are those who can also lead — and that's exactly the kind of professional I'm building myself to be.
 
