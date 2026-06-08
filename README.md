@@ -47,8 +47,12 @@ I believe the most impactful technologists are those who can also lead — and t
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**AI Tools**  
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-blue?style=flat&logo=python&logoColor=white)
 
 **Formal Methods**  
 ![OpenJML](https://img.shields.io/badge/-OpenJML-007396?style=flat&logo=openjdk&logoColor=white)
