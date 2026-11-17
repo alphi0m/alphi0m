@@ -1,9 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Engineer+%26+IT+Management+Student;Bridging+Tech+Excellence+%26+Business+Vision;AI%2C+Machine+Learning+%26+Software+Governance" alt="Typing SVG" />
-  </a>
-</div>
-<br/>
+Hi, I'm Alfio 
+
 ### 🎓 About Me
 I'm a **Computer Science Graduate** from the University of Salerno, currently pursuing a **Master's degree in Software Engineering & IT Management** — with a clear ambition to grow into leadership and management roles at the intersection of technology and business.
 
