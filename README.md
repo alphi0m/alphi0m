@@ -1,4 +1,4 @@
-Hi, I'm Alfio 
+# Hi, I'm Alfio 👋
 
 ### 🎓 About Me
 I'm a **Computer Science Graduate** from the University of Salerno, currently pursuing a **Master's degree in Software Engineering & IT Management** — with a clear ambition to grow into leadership and management roles at the intersection of technology and business.
